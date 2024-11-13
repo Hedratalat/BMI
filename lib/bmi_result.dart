@@ -35,7 +35,7 @@ class BmiResult  extends StatelessWidget {
               ),),
             Text('Result : $result',style:
             TextStyle(
-              fontSize: 25,
+              fontSize: 25,g
               fontWeight: FontWeight.bold,
             ),),
             Text('Age : $age',style:
